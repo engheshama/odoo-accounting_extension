@@ -1,0 +1,1 @@
+# odoo-accounting_extension
